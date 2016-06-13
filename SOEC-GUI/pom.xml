@@ -1,0 +1,24 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>SOEC_GUI2</groupId>
+	<artifactId>SOEC_GUI2</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<name>Archetype - SOEC_GUI2</name>
+	<url>http://maven.apache.org</url>
+	<dependencies>
+		<!-- http://mvnrepository.com/artifact/org.apache.olingo/olingo-odata2-api -->
+		<dependency>
+			<groupId>org.apache.olingo</groupId>
+			<artifactId>olingo-odata2-api</artifactId>
+			<version>1.2.0</version>
+		</dependency>
+		<!-- http://mvnrepository.com/artifact/commons-codec/commons-codec -->
+		<dependency>
+			<groupId>commons-codec</groupId>
+			<artifactId>commons-codec</artifactId>
+			<version>1.10</version>
+		</dependency>
+
+	</dependencies>
+</project>
